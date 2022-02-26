@@ -5,6 +5,6 @@ Additional and very extensive instruction can be found in the original [document
 
 The software provided here is made for a teensy2.0++.
 It uses an unoptimized PIN layout as follows:
-![image](PINlayout.png)
+![image](https://github.com/mjongerh/KrangleBoard/blob/master/Images/PINlayout.png)
 This can also be viewed in the GUI of [kbfirmware](https://kbfirmware.com) by uploading the [JSON file](krangle_kbfirmware.json).
 

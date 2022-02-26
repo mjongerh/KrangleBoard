@@ -1,6 +1,6 @@
 # STL files
-![image](./Assembled.png)
-![image](./PartLabels.png)
+![image](https://github.com/mjongerh/KrangleBoard/blob/master/Images/Assembled.png)
+![image](https://github.com/mjongerh/KrangleBoard/blob/master/Images/PartLabels.png)
 
 All parts in this [list](./STL_parts) were printed in black PLA on a creality CR-20.
 It includes the bracket I made for a teensy2.0++, but a bare version is also there to be adjusted to anything one desires.

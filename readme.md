@@ -30,7 +30,7 @@ So instead, I was able to fish a teensy2.0++ from the past and wired everything 
 In this case it uses the traditional method for wire mapping. (PIN map found in [software](./Software))
 Some of the macro wiring does not make sense in this setup, but it was a leftover from a previous attempt.
 Considering the amount of space in the keyboard, it should be fine for anyone.
-![image](./images/wiring.png)
+![image](https://github.com/mjongerh/KrangleBoard/blob/master/Images/wiring.png)
 
 Many great tips and tricks can be found externally, for example in [this](https://github.com/jurassic73/split89/blob/main/readme.md#prepping-the-diodes) repo of another 3D printed board.
 Out of enthousiasm I designed and 3D-printed a little tool to be used as guidance to bend the pins of the diodes.
@@ -55,7 +55,7 @@ Additionally, two resistors are required as pull-up and pull-down resistor to st
 This image shows an example setup for the circuit.
 Where G,D ans S and the Gate Drain and Source pins of the MOSFET.
 PIN indicates the connection to the controlling pin of microcontroller. (PIN map found in [software](./Software))
-![image](./images/MOSFET.png)
+![image](https://github.com/mjongerh/KrangleBoard/blob/master/Images/MOSFET.png)
 
 The MOSFET and resistors are placed on the bracket, there is intentionally left some space for this.
 
@@ -70,24 +70,24 @@ This section will just show some of the progression of my build.
 As a bonus, one will notice how this keyboard got its name.
 
 After putting all the main switchplates and case parts together and pressing all switches in place.
-![image](./images/part1.jpg)
-![image](./images/part2.jpg)
+![image](https://github.com/mjongerh/KrangleBoard/blob/master/Images/part1.jpg)
+![image](https://github.com/mjongerh/KrangleBoard/blob/master/Images/part2.jpg)
 
 Closeup of the wiring and my lackluster soldering skills. 
 The bare wires are the pins of the diodes and function as the rows.
 The colored wires connect the other pins of the switches and make up the columns.
 White and black wires are the + and - of the LEDs.
-![image](./images/closeup.jpg)
-![image](./images/closeup2.jpg)
+![image](https://github.com/mjongerh/KrangleBoard/blob/master/Images/closeup.jpg)
+![image](https://github.com/mjongerh/KrangleBoard/blob/master/Images/closeup2.jpg)
 
 After connecting the LEDs and testing them.
-![image](./images/part3.jpg)
+![image](https://github.com/mjongerh/KrangleBoard/blob/master/Images/part3.jpg)
 
 Closeup of how the MOSFET is installed
-![image](./images/mosfetinstall.jpg)
+![image](https://github.com/mjongerh/KrangleBoard/blob/master/Images/mosfetinstall.jpg)
 
 The beauty in all its glory.
 On a daily basis I pray for the wires or one of the connection not to break.
-![image](./images/part4.jpg)
-![image](./images/desk.jpg)
+![image](https://github.com/mjongerh/KrangleBoard/blob/master/Images/part4.jpg)
+![image](https://github.com/mjongerh/KrangleBoard/blob/master/Images/desk.jpg)
 
