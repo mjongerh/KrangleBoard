@@ -31,6 +31,8 @@ In this case it uses the traditional method for wire mapping. (PIN map found in 
 Some of the macro wiring does not make sense in this setup, but it was a leftover from a previous attempt.
 Considering the amount of space in the keyboard, it should be fine for anyone.
 ![image](https://github.com/mjongerh/KrangleBoard/blob/master/Images/wiring.png)
+Note that column 14 is the part that contains only 4 keys in the main part of the board.
+
 
 Many great tips and tricks can be found externally, for example in [this](https://github.com/jurassic73/split89/blob/main/readme.md#prepping-the-diodes) repo of another 3D printed board.
 Out of enthousiasm I designed and 3D-printed a little tool to be used as guidance to bend the pins of the diodes.
