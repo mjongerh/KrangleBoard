@@ -10,7 +10,6 @@ Printing settings:
 - 0.16mm layer height
 - temperature 200C
 - infill: hexatriangles 30%
-- 
 
 
 Additionally a very kind friend with a resin printer made some tiny translucent cubes.
@@ -26,3 +25,6 @@ Some of which are probably resolved with a better calibrated 3D printer that has
 - The connecting part where an M3 bolt and nuts connects the different sections is a bit too small. 
 When applying force to screw it tight, two layers of the print slightly came loose.
 It is still functional and I don't consider it broken, but it would be nicer if it was a bit stronger.
+- without LA correction, the sockets for the stabs didn't print perfectly. 
+So quite some post-print surgery had to be performed to make them fit well.
+One socket was lost in the process.
