@@ -55,7 +55,7 @@ With a maximum of 2mA per LED (obtained experimentally), this would lead to a lo
 To control the current (and therefore the brightness) through the LEDs, I used a MOSFET as 'electronic switch'.
 Additionally, two resistors are required as pull-up and pull-down resistor to stabalize the voltage.
 This image shows an example setup for the circuit.
-Where G,D ans S and the Gate Drain and Source pins of the MOSFET.
+Where G,D ans S are the Gate Drain and Source pins of the MOSFET.
 PIN indicates the connection to the controlling pin of microcontroller. (PIN map found in [software](./Software))
 ![image](https://github.com/mjongerh/KrangleBoard/blob/master/Images/MOSFET.png)
 
